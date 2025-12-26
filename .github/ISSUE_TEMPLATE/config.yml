@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://thetapad.com/help
+    about: Check out our documentation for guides and tutorials
+  - name: Blog
+    url: https://thetapad.com/blog
+    about: Read our blog for tips and updates
